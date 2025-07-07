@@ -24,11 +24,7 @@ import (
 
 // Configuration constants
 const (
-	BOT_TOKEN = "7734766307:AAG5PQgaFR7EQr2p8swNUUwX4Mqu1LFNW8o"
-	NODE_URL  = "ws://157.90.130.238:28546"
-	CHAT_ID   = "-1002538595398"
-	DEAD_ADDR = "0x000000000000000000000000000000000000dead"
-	WETH_ADDR = "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"
+	
 )
 
 // ERC20 ABI definitions
